@@ -18,7 +18,7 @@ A Back-End developer specialized in **.NET**, passionate about software architec
   
 </p>
  -->
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,redis,postgres,sqlite,docker,git,github,visualstudio,vscode,postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,redis,postgres,sqlite,docker,git,github,visualstudio,vscode,postman&theme=dark)](https://skillicons.dev)
 
 
 ---
