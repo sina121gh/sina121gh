@@ -13,7 +13,8 @@ A Back-End developer specialized in **.NET**, passionate about software architec
 ---
 ## 🔧 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,redis,postgres,sqlite,docker,git,github,visualstudio,vscode,postman" />
+  <!-- <img src="https://skillicons.dev/icons?i=dotnet,cs,redis,postgres,sqlite,docker,git,github,visualstudio,vscode,postman"/> -->
+  [![My Skills]([https://skillicons.dev/icons?i=java,kotlin,nodejs](https://skillicons.dev/icons?i=dotnet,cs,redis,postgres,sqlite,docker,git,github,visualstudio,vscode,postman),figma&theme=light)](https://skillicons.dev)
 </p>
 
 
